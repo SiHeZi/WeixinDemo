@@ -5,5 +5,7 @@ public class Demo {
 
     public static void main(String[] args) {
         System.out.println("wei xin is hello");
+
+        System.out.println("wei xin is hello");
     }
 }
